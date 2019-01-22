@@ -1,5 +1,6 @@
 #!/bin/bash
-
+# rcfile to establish simple router
+# replace eth0 and eth1 with your wan and lan interfaces respectively
 # /etc/rc.local
 
 # Default policy to drop all incoming packets.
